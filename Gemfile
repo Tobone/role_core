@@ -16,7 +16,8 @@ gemspec
 # To use a debugger
 # gem 'byebug', group: [:development, :test]
 
-gem "sqlite3", "~> 1.3.6"
+gem "rails", "~> 6.0.0.beta3"
+gem "sqlite3"
 
 # Use Puma as the app server
 gem "puma"
